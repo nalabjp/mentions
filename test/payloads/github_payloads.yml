@@ -1351,3 +1351,9 @@ assigned_pull_request:
   "action": "assigned",
   "assignee": {"login": "ppworks"}
 }'
+
+review_requested_pull_request:
+  body: '{
+  "action": "review_requested",
+  "requested_reviewer": {"login": "ppworks"}
+}'
