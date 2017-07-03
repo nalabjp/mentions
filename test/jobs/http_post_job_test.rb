@@ -1,3 +1,5 @@
+require 'net/http'
+
 class HttpPostJobTest < ActiveJob::TestCase
   def test_perform
     uri = 'http://example.com'
