@@ -110,8 +110,6 @@
 -
   github: mughalyuto
 -
-  github: n6o
--
   github: nakagawa-atsushi
   esa: nakagawa_atsushi
   slack: nakagawa.atsushi
@@ -244,7 +242,7 @@
   trello: ito_daisuke
 -
   github: MasakazuOhmura
-  esa: omura_masakazu 
+  esa: omura_masakazu
   slack: masakazu
 -
   github: sherry-k5
@@ -319,7 +317,7 @@
   github: inagemakoto
   esa: inage_makoto
   slack: makoto_inage
-- 
+-
   github: uemura-saeko
   esa: uemura_saeko
   slack: saeko_uemura
@@ -374,16 +372,16 @@
   slack: csatake
 -
   github: n6o
-  esa: nakamoto_takeshi 
+  esa: nakamoto_takeshi
   slack: n6o
 -
   github: ikeuchi-kenichi
-  esa: ikeuchi_kenichi 
-  slack: ikeuchi.kenichi 
+  esa: ikeuchi_kenichi
+  slack: ikeuchi.kenichi
 -
   github: akira-hamada
   esa: hamada_akira
-  slack: akira-hamada 
+  slack: akira-hamada
 -
   github: rikimakita
   esa: makita_riki
