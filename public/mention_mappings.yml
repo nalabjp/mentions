@@ -202,7 +202,7 @@
   trello: taniguchitoru
 -
   github: tunanosuke
-  esa: yamashita_manato
+  esa: tunanosuke
   slack: tunanosuke
   trello: manatoyamashita
 -
@@ -309,7 +309,7 @@
   slack: oba
   trello: hirooba
 -
-  github: TakeshiUeno-MF
+  github: uenotk
   esa: ueno_takeshi
   slack: takeshi.ueno
   trello: uenotakeshi
@@ -402,3 +402,28 @@
   github: furuhama
   esa: furuhama_yusuke
   slack: furuhama
+-
+  esa: kimura_hisashi
+  slack: kimura.hisashi
+-
+  esa: oyama.yasuhiro
+  slack: oyama_yasuhiro
+-
+  esa: yoshimoto_masaki
+  slack: masaki_yoshimoto
+-
+  esa: motokawa_daisuke
+  slack: motokawadaisuke
+-
+  esa: hanafusa_nobuhiro
+  slack: hanafusa
+-
+  esa: kirihara_toyoaki
+  slack: kirihara.toyoaki
+-
+  esa: sasaki_toshiya
+  slack: sasaki.toshiya
+-
+  github: SatoKimiaki
+  esa: sato_kimiaki
+  slack: sato_kimiaki
