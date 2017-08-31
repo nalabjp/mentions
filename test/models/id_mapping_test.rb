@@ -17,4 +17,10 @@ class IdMappingTest < ActiveSupport::TestCase
     mapping = IdMapping.new(file_path)
     assert_equal 'ppworks', mapping.find(user_name: 'koshikawa_naoto', from: 'esa', to: 'slack')
   end
+
+  def test_convert_with_own_file
+    file_path = Rails.root.join('public', 'mention_mappings.yml').to_s
+    mapping = IdMapping.new(file_path)
+    assert_equal 'ppworks', mapping.find(user_name: 'koshikawa_naoto', from: 'esa', to: 'slack')
+  end
 end
