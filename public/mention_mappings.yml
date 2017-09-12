@@ -30,9 +30,6 @@
   esa: a_matsuda
   slack: matsuda.akira
 -
-  github: aya2453
-  slack: nakagawa.aya
--
   github: bannzai
   esa: hirose_yudai
   slack: hirose.yudai
@@ -74,18 +71,9 @@
   esa: kengoscal
   slack: suzuki.kengo
 -
-  github: khirayama
-  esa: hirayama_kome_kotaro
-  slack: hirayama.kome.kotaro
--
   github: kjirou
   esa: ishii_koujirouko
   slack: kjirou
--
-  github: kota
-  esa: fujiwara_kota
-  slack: kota
-  trello: fujiwarakota
 -
   github: koutalou
   esa: kodama_kotaro
@@ -139,16 +127,6 @@
   slack: ohs
   trello: ohashimizuki
 -
-  github: otoatarumf
-  esa: oto_ataru
-  slack: ataruohto
-  trello: otoataru
--
-  github: ppworks
-  esa: koshikawa_naoto
-  trello: koshikawanaoto
-  slack: ppworks
--
   github: ryoff
   esa: shibuya_ryo
   slack: ryoff
@@ -163,10 +141,6 @@
   slack: sanemat
   trello: murahashikenichi
 -
-  github: shimesaba9
-  esa: sugimoto_hiroki
-  slack: sugimoto.hiroki
--
   github: shoji-kuroda
   esa: kuroda_shoji
   slack: shoji.kuroda
@@ -175,10 +149,6 @@
   github: syguer
   esa: syguer
   slack: syguer
--
-  github: takayama-daisuke
-  esa: takayama_daisuke
-  slack: daisuke.takayama
 -
   github: takayoshi1203
   esa: yokoyama_takayoshi
@@ -225,11 +195,6 @@
   esa: kaneko_yuichiro
   slack: yui-knk
 -
-  github: yukiasai
-  esa: asai_yuki
-  slack: asai.yuki
-  trello: asaiyuki
--
   github: yuruneko
 -
   github: yori-a2c
@@ -240,10 +205,6 @@
   esa: ito_daisuke
   slack: ito_daisuke
   trello: ito_daisuke
--
-  github: MasakazuOhmura
-  esa: omura_masakazu
-  slack: masakazu
 -
   github: sherry-k5
   esa: nozaki_keigo
@@ -287,10 +248,6 @@
   esa: yoshimura_taira
   slack: taira.yoshimura
 -
-  github: ShulliDrake
-  esa: sumiya_nozomi
-  slack: nozomi.sumiya
--
   github: littlestarling
   esa: ogura_takashi
   slack: ogura
@@ -303,11 +260,6 @@
   esa: sawada_tsuyoshi
   slack: sawa
   trello: sawadatsuyoshi
--
-  github: oba-hiro
-  esa: oba_hiro
-  slack: oba
-  trello: hirooba
 -
   github: uenotk
   esa: ueno_takeshi
@@ -340,10 +292,6 @@
   esa: kuroda_shota
   slack: kurodashota
 -
-  github: yamasy1549
-  esa: yamashita_sanae
-  slack: yamasy
--
   github: yakkun
   esa: yakkun
   slack: yakkun
@@ -353,10 +301,6 @@
   esa: soetani_shota
   slack: shota.soetani
   trello: shotasoetani
--
-  github: yoichiro
-  esa: tanaka_yoichiro
-  slack: tanaka
 -
   github: dominor16
   esa: kanetsuki_ryoma
@@ -394,10 +338,6 @@
   github: sakai-akinobu
   esa: sakai_akinobu
   slack: sakai.akinobu
--
-  github: mf-chaptmn
-  esa: otsuka_naoya
-  slack: naoya_otsuka
 -
   github: furuhama
   esa: furuhama_yusuke
