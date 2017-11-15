@@ -295,6 +295,7 @@
   github: kurodashota-mf
   esa: kuroda_shota
   slack: kurodashota
+  trello: shotakuroda
 -
   github: yakkun
   esa: yakkun
@@ -475,6 +476,11 @@
 -
   github: hirothings
   slack: hiroshi.sakamoto
-- github: pandbucks
+-
+  github: pandbucks
   slack: 'yu kimura'
   esa: kimura_yu_1505784099
+-
+  github: nguyensach
+  slack: sachnb
+  esa: nguyen_bao_sach
