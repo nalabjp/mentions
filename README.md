@@ -76,9 +76,11 @@ heroku run console -a your-application-name
 Webhook.create(from: 'trello', to: 'slack').token # Your webhook token
 ```
 
-## Mentions mapping file example
+## How to use mentions
 
-https://gist.githubusercontent.com/ppworks/49f6ce44efb09d5fc8e9/raw/c1465aab5d6604b98ba6ca4c31263a5b36f62378/mention_mappings.yml
+1. Clone this repository
+2. Add your service accounts [here](https://github.com/moneyforward/mf_mentions/blob/master/public/mention_mappings.yml)
+3. Please PR (example: https://github.com/moneyforward/mf_mentions/pull/23?w=1)
 
 ```
 -
